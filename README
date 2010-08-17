@@ -1,4 +1,4 @@
-This is a daemon implementing VRRP v2 (RFC3768) and v3 (RFC5798, not comletely)
+This is an implemention of VRRP v2 (RFC3768) and v3 (RFC5798, not comletely), 
+it is ispired by vrrpd (http://www.off.net/~jme/vrrpd/).
 
-(There is already an open-source project vrrpd, so I name mine bxvrrpd)
-
+See INSTALL to compile and install it.
