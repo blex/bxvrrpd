@@ -1,0 +1,4 @@
+This is a daemon implementing VRRP v2 (RFC3768) and v3 (RFC5798, not comletely)
+
+(There is already an open-source project vrrpd, so I name mine bxvrrpd)
+
